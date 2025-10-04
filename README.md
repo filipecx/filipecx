@@ -6,7 +6,7 @@ Amo aprender e resolver problemas reais com tecnologia.
 <div>
   <a href="https://github.com/filipecx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecx&langs_count=3&theme=radical&stats_format=bytes"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipecx&show_icons=true&theme=radical&include_all_commits=true&count_private=true year=2025"/>
+  
 </div>
   
   #### &#128295; Tech:
